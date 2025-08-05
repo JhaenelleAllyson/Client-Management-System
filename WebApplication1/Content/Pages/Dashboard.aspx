@@ -37,7 +37,7 @@
         }
 
         .sidebar .logo {
-            width: 160px;
+            width: 170px;
             margin-bottom: 16px;
         }
 
